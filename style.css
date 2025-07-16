@@ -38,9 +38,9 @@ h4 {
 
 .logo {
     margin: 0;
-    width: 130%;
+    width: 225%;
     text-align: center;
-    padding: 0% 0px 0% 600px;
+    padding: 0% 0% 10% 150%;
 }
 
 .row {
@@ -62,13 +62,13 @@ h4 {
 
 #navbar{
     display :flex;
-    align-items: center;
+    align-items: left;
     justify-content: space-between;
 }
 
 #navbar li{
     list-style: none;
-    padding: 225px 60px 0px 0px;
+    padding: 18% 0% 5% 2%;
 }
 
 #navbar li a{
